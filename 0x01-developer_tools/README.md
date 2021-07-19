@@ -7,7 +7,8 @@ Sebastián Contreras / sebastiancontreras15897@gmail.com 📧
 --------------------------------------------------------
 ### DevTools 💻
 
-Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser.
+
+-Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser.
 --------------------------------------------------------
 ### General
 -What Developer Tools in your browser are
