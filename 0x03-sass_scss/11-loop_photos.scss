@@ -1,5 +1,5 @@
 /* Iterate for each in a list*/
-@import '11-colors';
+@import '11-photos';
 
 @each $i in $list-names {
     .photo-#{$i} {
