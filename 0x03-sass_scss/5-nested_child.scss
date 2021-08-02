@@ -1,0 +1,9 @@
+/* Nesting with childs in Scss */
+
+body {
+    color: #3d3d3d;
+
+    > .red {
+	color: #FF0000;
+    }
+}
