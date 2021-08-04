@@ -175,29 +175,22 @@
     width: 960px;
     margin-left: auto;
     margin-right: auto;
-}
-
-/* Grid 
-============================= */
-
-.row {
+  }
+  
+  /* Grid
+      ============================= */
+  /* Task 0 */
+  .row {
     display: flex;
-}
-
-ul.row {
+  }
+  
+  ul.row {
     margin: 0;
     padding: 0;
     list-style: none;
-}
-
-.row::after {
-    content: '';
-    display: table;
-    clear: both;
   }
   
   [class*='col-'] {
-    float: left;
     padding: 0.5rem;
   }
   
@@ -494,9 +487,9 @@ ul.row {
   
   .card-testimonial .card-quote {
     position: relative;
-}
-
-.card-testimonial .card-quote::before {
+  }
+  
+  .card-testimonial .card-quote::before {
     content: '\201C';
     position: absolute;
     top: -4.5rem;
@@ -504,4 +497,4 @@ ul.row {
     color: #efeded;
     font-size: 10rem;
     z-index: -1;
-}
+  }
