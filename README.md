@@ -1,5 +1,4 @@
-###  ⚡holbertonschool-web_front_end ⚡
-
+###  ⚡web_front_end ⚡
 ### Author
 
 Sebastián Contreras / sebastiancontreras15897@gmail.com 📧
